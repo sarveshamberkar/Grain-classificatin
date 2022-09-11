@@ -1,0 +1,13 @@
+{
+  "number": 17,
+  "values": [122783106288.0, 0.425],
+  "params": {
+    "n_layers": 1,
+    "n_feature_l0": 34,
+    "feature_block_0": "conv",
+    "reduction_0": 1,
+    "n_reduction_l0": 207,
+    "reduction_block_0": "resnetblock",
+    "lr": 0.0812305534765708
+  }
+}

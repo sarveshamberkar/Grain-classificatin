@@ -1,0 +1,1 @@
+{"number": 5, "values": [182741633504.0, 0.325], "params": {"n_layers": 2, "n_feature_l0": 36, "feature_block_0": "resnetblock", "reduction_0": 0, "n_feature_l1": 126, "feature_block_1": "resnetblock", "reduction_1": 0, "lr": 0.021400259592714382}}
