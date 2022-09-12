@@ -1,0 +1,1 @@
+{"number": 6, "values": [111729946048.0, 0.125], "params": {"n_layers": 2, "n_feature_l0": 93, "feature_block_0": "conv", "reduction_0": 1, "n_reduction_l0": 386, "reduction_block_0": "shuffle_unit", "n_feature_l1": 40, "feature_block_1": "resnetblock", "reduction_1": 0, "lr": 0.000364452724016922}}
