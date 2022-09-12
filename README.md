@@ -1,1 +1,1 @@
-# Grain-classificatin
+# sea-animal-classification
